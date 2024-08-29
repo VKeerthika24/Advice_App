@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:darkturquoise;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+div{
+    color: #fff;
+    text-align: center;
+}
+div h3{
+    font-size: 20px;
+    font-weight: 550;
+}
+div button{
+    border: none;
+    background-color: #182c61;
+    color: #fff;
+    padding:10px 20px;
+    border-radius: 5px;
+    font-size: 18px ;
+}
+b{
+    color:#182c61;
+}
